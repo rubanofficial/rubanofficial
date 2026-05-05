@@ -30,9 +30,6 @@ I am a Full Stack Developer specializing in the MERN stack, with hands-on experi
 
 - 🏠 Real Estate Management System (MERN + Cloudinary + Auth)
 - 🤖 AI-based Smart Campus System
-- 📒 Notes App (React + Routing)
-- 🔗 REST API (Node.js + Express + MongoDB)
-
 ---
 
 ### 📊 GitHub Stats
