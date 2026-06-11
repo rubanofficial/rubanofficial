@@ -4,11 +4,8 @@
 <p><b>Full Stack Developer (MERN) · AI & Data Science Student · NLP Enthusiast</b></p>
 
 <p>
-  <a href="https://www.linkedin.com/in/ruban-s-a09a1b373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/rubanofficial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://leetcode.com/u/S_RUBAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
   <a href="https://portfolio-ruban.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>
-  <a href="mailto:rubans082005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -23,7 +20,7 @@ const ruban = {
   cgpa     : 7.66,
   focus    : ["Full Stack Development", "AI Integration", "NLP"],
   stack    : ["React", "Node.js", "Express.js", "MongoDB"],
-  certified: "MongoDB Associate Developer – MongoDB Inc.",
+  certified: ["MongoDB Associate Developer", "Java SE 17 Developer"],
   location : "Karur, India 🇮🇳",
 };
 ```
@@ -74,24 +71,15 @@ const ruban = {
 
 ### 🚀 Projects
 
-**[PrepForge – DSA Preparation Platform](https://github.com/rubanofficial)** &nbsp;·&nbsp; [Live Demo](#)
+**[PrepForge](https://github.com/rubanofficial)** — A DSA prep platform that syncs with LeetCode, spots weak areas in your solving patterns, and uses Gemini AI to suggest what to tackle next. Built batch processing under the hood so syncing large datasets never blocks the user.
 
-> `React.js` · `Redux Toolkit` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `Gemini AI`
-
-- Built a full-stack DSA platform that **tracks coding progress**, analyzes weak topics, and generates personalized learning insights.
-- Implemented **batch-based background sync** to process large LeetCode datasets without blocking user requests.
-- Created **data normalization pipelines** to transform raw LeetCode data into structured, analytics-ready datasets.
-- Integrated **Gemini AI** for intelligent topic recommendations based on user problem-solving history.
+`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Gemini AI`
 
 ---
 
-**[CampusVoice – Smart Complaint Management System](https://github.com/rubanofficial)** &nbsp;·&nbsp; [Live Demo](#)
+**[CampusVoice](https://github.com/rubanofficial)** — A complaint management system for college campuses where students can raise issues anonymously or with their account. Gemini AI handles auto-categorization and priority tagging so admins aren't manually sorting everything.
 
-> `React.js` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Gemini API`
-
-- Built an **AI-powered complaint platform** for educational institutions supporting both anonymous and authenticated submissions.
-- Implemented **JWT-based RBAC** for admins, staff, and users with protected API routes.
-- Integrated **Google Gemini AI** for automated categorization, sentiment analysis, keyword extraction, and priority classification.
+`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Gemini API`
 
 ---
 
@@ -110,14 +98,13 @@ const ruban = {
 
 ---
 
-### 🏅 Certification
+### 🏅 Certifications
 
 - **MongoDB Associate Developer** — MongoDB Inc.
+- **Java SE 17 Developer** — Oracle
 
 ---
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=rubanofficial&color=0891b2&style=flat-square&label=Profile+Views"/>
-  <br/>
-  <sub>📍 Karur, India &nbsp;|&nbsp; 📞 6374372005 &nbsp;|&nbsp; ✉️ rubans082005@gmail.com</sub>
 </div>
