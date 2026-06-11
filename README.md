@@ -4,8 +4,9 @@
 <p><b>Full Stack Developer (MERN) · AI & Data Science Student · NLP Enthusiast</b></p>
 
 <p>
-  <a href="https://github.com/rubanofficial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
-  <a href="https://portfolio-ruban.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/ruban-s-a09a1b373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/S_RUBAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="mailto:rubans082005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 </p>
 
 </div>
@@ -71,15 +72,17 @@ const ruban = {
 
 ### 🚀 Projects
 
-**[PrepForge](https://github.com/rubanofficial)** — A DSA prep platform that syncs with LeetCode, spots weak areas in your solving patterns, and uses Gemini AI to suggest what to tackle next. Built batch processing under the hood so syncing large datasets never blocks the user.
+#### 🔷 [PrepForge](https://github.com/rubanofficial) — DSA Preparation Platform
+Sync your LeetCode history, get a breakdown of where you're weak, and let Gemini AI tell you what to grind next. Background batch processing keeps everything fast even with large datasets.
 
-`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Gemini AI`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Redux](https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=redux&logoColor=white) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white) ![Gemini AI](https://img.shields.io/badge/-Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
-**[CampusVoice](https://github.com/rubanofficial)** — A complaint management system for college campuses where students can raise issues anonymously or with their account. Gemini AI handles auto-categorization and priority tagging so admins aren't manually sorting everything.
+#### 🔷 [CampusVoice](https://github.com/rubanofficial) — Smart Complaint Management System
+Campus complaint platform where students raise issues anonymously or logged in. Gemini AI auto-categorizes, tags priority, and extracts keywords — so admins see structured data, not a wall of text.
 
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Gemini API`
+![React](https://img.shields.io/badge/-React-20232A?style=flat-square&logo=react&logoColor=61DAFB) ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white) ![Gemini API](https://img.shields.io/badge/-Gemini_API-4285F4?style=flat-square&logo=google&logoColor=white)
 
 ---
 
