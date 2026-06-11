@@ -1,107 +1,123 @@
 <div align="center">
 
-# Ruban S
+<h2>👋 Hi, I'm Ruban S</h2>
+<p><b>Full Stack Developer (MERN) · AI & Data Science Student · NLP Enthusiast</b></p>
 
-### Full Stack Developer · MERN Stack · AI & Data Science
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://portfolio-ruban.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ruban-s-a09a1b373/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://www.github.com/rubanofficial)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/S_RUBAN/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rubans082005@gmail.com)
+<p>
+  <a href="https://www.linkedin.com/in/ruban-s-a09a1b373/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://github.com/rubanofficial"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/></a>
+  <a href="https://leetcode.com/u/S_RUBAN/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black"/></a>
+  <a href="https://portfolio-ruban.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-FF5722?style=flat-square&logo=vercel&logoColor=white"/></a>
+  <a href="mailto:rubans082005@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+</p>
 
 </div>
 
 ---
 
-## About Me
+### 🧑‍💻 About Me
 
-Final-year B.Tech student in **AI & Data Science** at Kongu Engineering College, building full-stack web applications using the MERN stack with AI integration. Developed production-ready systems including an AI-powered complaint management platform and a real-time DSA analytics tool with Gemini AI and LeetCode sync. Gained hands-on NLP experience during internship using spaCy and FastAPI. Certified **MongoDB Associate Developer**.
-
----
-
-## 🛠️ Technical Skills
-
-| Category | Skills |
-|----------|--------|
-| **Languages** | C, Python, Java, JavaScript |
-| **Frontend** | React.js, HTML5, CSS3, Tailwind CSS |
-| **Backend** | Node.js, Express.js |
-| **Database** | MongoDB, SQL |
-| **AI / NLP** | spaCy, FastAPI, Gemini API |
-| **Tools & Platforms** | Git, Postman, VS Code |
+```ts
+const ruban = {
+  degree   : "B.Tech – AI & Data Science @ Kongu Engineering College (2023–2027)",
+  cgpa     : 7.66,
+  focus    : ["Full Stack Development", "AI Integration", "NLP"],
+  stack    : ["React", "Node.js", "Express.js", "MongoDB"],
+  certified: "MongoDB Associate Developer – MongoDB Inc.",
+  location : "Karur, India 🇮🇳",
+};
+```
 
 ---
 
-## 💼 Experience
+### 🛠️ Tech Stack
 
-**SAN Technovation Pvt Ltd — Intern** · *Aug 2025 – Sep 2025*
-
-`Python` `FastAPI` `Regex` `spaCy (NLP)` `RapidFuzz`
-
-- Built a hybrid name extraction engine combining spaCy NER and rule-based filtering to accurately identify candidate names from unstructured resume text.
-- Designed an email normalization pipeline using regex and RapidFuzz fuzzy matching to detect and auto-correct malformed formats and invalid domains.
-
----
-
-## 🚀 Projects
-
-### PrepForge – DSA Preparation Platform · [Live Demo](#) · [GitHub](#)
-
-`React.js` `Redux Toolkit` `Node.js` `Express.js` `MongoDB` `Socket.IO` `Gemini AI`
-
-- Designed a full-stack DSA preparation platform that tracks coding progress, analyzes weak topics, and generates personalized learning insights.
-- Implemented a background synchronization system using batch-based processing to fetch and process large LeetCode datasets efficiently without blocking user requests.
-- Created data normalization and enrichment pipelines to transform external LeetCode data into structured analytics-ready datasets.
-- Integrated Gemini AI to generate intelligent topic recommendations and performance insights based on user problem-solving history.
-
----
-
-### CampusVoice – Smart Complaint Management System · [Live Demo](#) · [GitHub](#)
-
-`React.js` `Node.js` `Express.js` `MongoDB` `JWT` `Gemini API`
-
-- Built an AI-powered complaint management platform for educational institutions supporting both anonymous and authenticated complaint submissions.
-- Implemented role-based access control for administrators, staff members, and users using JWT authentication and protected API routes.
-- Integrated Google Gemini AI for automated complaint categorization, sentiment analysis, keyword extraction, and priority classification.
+<p>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
+  <img src="https://img.shields.io/badge/spaCy-09A3D5?style=flat-square&logo=spacy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Gemini_AI-4285F4?style=flat-square&logo=google&logoColor=white"/>
+</p>
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Socket.IO-010101?style=flat-square&logo=socket.io&logoColor=white"/>
+</p>
 
 ---
 
-## 🎓 Education
+### 💼 Experience
 
-**Kongu Engineering College** · 2023 – 2027
-B.Tech – Artificial Intelligence & Data Science · CGPA: 7.66
+**SAN Technovation Pvt Ltd — Intern** &nbsp;`Aug 2025 – Sep 2025`
 
-**Equitas Gurukul Matric School** · 2022 – 2023
-HSC – 92.5%
+> `Python` · `FastAPI` · `spaCy (NLP)` · `Regex` · `RapidFuzz`
+
+- Built a hybrid **name extraction engine** combining spaCy NER + rule-based filtering to identify candidate names from unstructured resume text.
+- Designed an **email normalization pipeline** using regex and RapidFuzz fuzzy matching to detect and auto-correct malformed formats and invalid domains.
 
 ---
 
-## 🏅 Certifications
+### 🚀 Projects
+
+**[PrepForge – DSA Preparation Platform](https://github.com/rubanofficial)** &nbsp;·&nbsp; [Live Demo](#)
+
+> `React.js` · `Redux Toolkit` · `Node.js` · `Express.js` · `MongoDB` · `Socket.IO` · `Gemini AI`
+
+- Built a full-stack DSA platform that **tracks coding progress**, analyzes weak topics, and generates personalized learning insights.
+- Implemented **batch-based background sync** to process large LeetCode datasets without blocking user requests.
+- Created **data normalization pipelines** to transform raw LeetCode data into structured, analytics-ready datasets.
+- Integrated **Gemini AI** for intelligent topic recommendations based on user problem-solving history.
+
+---
+
+**[CampusVoice – Smart Complaint Management System](https://github.com/rubanofficial)** &nbsp;·&nbsp; [Live Demo](#)
+
+> `React.js` · `Node.js` · `Express.js` · `MongoDB` · `JWT` · `Gemini API`
+
+- Built an **AI-powered complaint platform** for educational institutions supporting both anonymous and authenticated submissions.
+- Implemented **JWT-based RBAC** for admins, staff, and users with protected API routes.
+- Integrated **Google Gemini AI** for automated categorization, sentiment analysis, keyword extraction, and priority classification.
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-stats.vercel.app/api?username=rubanofficial&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubanofficial&layout=compact&theme=tokyonight&hide_border=true" width="40%"/>
+
+<br/>
+
+<img src="https://streak-stats.demolab.com/?user=rubanofficial&theme=tokyonight&hide_border=true" width="55%"/>
+
+</div>
+
+---
+
+### 🏅 Certification
 
 - **MongoDB Associate Developer** — MongoDB Inc.
 
 ---
 
-## 📊 GitHub Stats
-
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=rubanofficial&show_icons=true&theme=radical&hide_border=true&count_private=true" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubanofficial&layout=compact&theme=radical&hide_border=true" width="40%" />
-
-<br/>
-
-<img src="https://streak-stats.demolab.com/?user=rubanofficial&theme=radical&hide_border=true" width="60%" />
-
-</div>
-
----
-
-<div align="center">
-
-📍 Karur, India &nbsp;|&nbsp; 📞 6374372005 &nbsp;|&nbsp; ✉️ rubans082005@gmail.com
-
-![Profile Views](https://komarev.com/ghpvc/?username=rubanofficial&color=blueviolet&style=for-the-badge)
-
+  <img src="https://komarev.com/ghpvc/?username=rubanofficial&color=0891b2&style=flat-square&label=Profile+Views"/>
+  <br/>
+  <sub>📍 Karur, India &nbsp;|&nbsp; 📞 6374372005 &nbsp;|&nbsp; ✉️ rubans082005@gmail.com</sub>
 </div>
