@@ -45,7 +45,7 @@ Final-year B.Tech (AI & Data Science) student and full-stack developer building 
 ROLE     : Full Stack Developer (MERN) | AI & Data Science Student
 EXP      : Final-year student, 1 internship (Software Engineering Intern)
 DOMAIN    : EdTech / Developer Tools / NLP-driven Automation
-STACK     : React.js, Node.js, Express.js, MongoDB, Redis, BullMQ
+STACK     : React.js, Node.js, Express.js, MongoDB, Gemini API
 OPEN_TO   : Full-Stack & SDE roles, 6-15 LPA range
 ```
 
@@ -72,10 +72,10 @@ OPEN_TO   : Full-Stack & SDE roles, 6-15 LPA range
 <div align="center">
 
 ![MERN](https://img.shields.io/badge/MERN%20Stack-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
-![Async Processing](https://img.shields.io/badge/Async%20Job%20Pipelines-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
 ![AI Integration](https://img.shields.io/badge/Gemini%20AI%20Integration-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
 ![NLP](https://img.shields.io/badge/spaCy%20NLP-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
 ![RealTime](https://img.shields.io/badge/Socket.IO%20Realtime-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
+![DSA](https://img.shields.io/badge/DSA%20%26%20Problem%20Solving-0D1117?style=flat-square&labelColor=FFB000&color=0D1117)
 
 </div>
 
@@ -232,7 +232,7 @@ An AI-powered complaint management platform for educational institutions, suppor
 
 <div align="center">
 
-![Snake animation](https://raw.githubusercontent.com/rubanofficial/rubanofficial/output/github-contribution-grid-snake-dark.svg)
+![Snake animation](https://raw.githubusercontent.com/rubanofficial/rubanofficial/output/github-contribution-grid-snake-dark.svg?raw=true)
 
 </div>
 
