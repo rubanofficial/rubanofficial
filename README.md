@@ -183,12 +183,12 @@ An AI-powered complaint management platform for educational institutions, suppor
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=rubanofficial&show_icons=true&hide_border=true&count_private=true&title_color=FFB000&icon_color=FFB000&text_color=E6E6E6&bg_color=0D1117" width="48%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubanofficial&layout=compact&hide_border=true&title_color=FFB000&text_color=E6E6E6&bg_color=0D1117" width="40%"/>
+<img src="https://github-stats-extended.vercel.app/api?username=rubanofficial&show_icons=true&hide_border=true&count_private=true&title_color=FFB000&icon_color=FFB000&text_color=E6E6E6&bg_color=0D1117" width="48%"/>
+<img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rubanofficial&layout=compact&hide_border=true&title_color=FFB000&text_color=E6E6E6&bg_color=0D1117" width="40%"/>
 
 <br/>
 
-<img src="https://streak-stats.demolab.com/?user=rubanofficial&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=E6E6E6" width="55%"/>
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=rubanofficial&hide_border=true&background=0D1117&ring=FFB000&fire=FFB000&currStreakLabel=FFB000&sideLabels=E6E6E6&currStreakNum=E6E6E6&sideNums=E6E6E6&dates=E6E6E6" width="55%"/>
 
 </div>
 
@@ -198,7 +198,7 @@ An AI-powered complaint management platform for educational institutions, suppor
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=rubanofficial&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
+<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rubanofficial&theme=matrix&no-frame=true&column=7&margin-w=8&margin-h=8" />
 
 </div>
 
@@ -218,11 +218,11 @@ An AI-powered complaint management platform for educational institutions, suppor
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details.svg?username=rubanofficial&theme=github_dark" width="90%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language.svg?username=rubanofficial&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language.svg?username=rubanofficial&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats.svg?username=rubanofficial&theme=github_dark" width="45%"/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time.svg?username=rubanofficial&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rubanofficial&theme=github_dark" width="90%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=rubanofficial&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rubanofficial&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rubanofficial&theme=github_dark" width="45%"/>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rubanofficial&theme=github_dark" width="45%"/>
 
 </div>
 
